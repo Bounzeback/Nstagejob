@@ -1,0 +1,169 @@
+Started by user [8mha:////4MeggWWTn7cLJ4IFQuqUorX9EDAJHaLOS6fBMOIEkumeAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgYe/dLi1CL9lNSy/IJiAJ9andXBAAAA[0mdevops training
+[8mha:////4Kn7iHbJ8RHDQTMLki4gbdj2bq+aAoOAfi3zVMHRRdWlAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4JmK/7OAJ8Rrc59o2sB3yU7GEJVUSMXPRsocypuQ3P1ZAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4JxGbxi4PkRznr/G/wa99oAErlusjYLbFie2MhfbBcRVAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /var/lib/jenkins/workspace/NStage project
+[8mha:////4MvOySlSg1wQXdJfFiNxWtjR9unjlVdq7TN9kRXavlUaAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4DJeUw+nMSkCJRCWUdaTB7f5Mf0EEoSTikSGAJ1UdZclAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4KmhbYAcCxzNhP1nPZOpD7wQlWWOVF7ZetFtPozcRW24AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Idris)
+[8mha:////4AMQe9S1xwz1tWg/IQ/X9nS95ySRJvccuUop35C7ZsjPAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] echo
+Performing Idris' stage tasks
+[8mha:////4Fsxng87CxYOeD3ke15J5Ev1GnEwEnPjSZZhiQ00sbiiAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI4F2L72ED8v8DEJvAAAAA==[0m[Pipeline] sh
++ ps -ef
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 Jun30 ?        00:00:08 /sbin/init
+root           2       0  0 Jun30 ?        00:00:00 [kthreadd]
+root           3       2  0 Jun30 ?        00:00:00 [rcu_gp]
+root           4       2  0 Jun30 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 Jun30 ?        00:00:00 [slub_flushwq]
+root           6       2  0 Jun30 ?        00:00:00 [netns]
+root           8       2  0 Jun30 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 Jun30 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 Jun30 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 Jun30 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 Jun30 ?        00:00:00 [ksoftirqd/0]
+root          14       2  0 Jun30 ?        00:00:00 [rcu_sched]
+root          15       2  0 Jun30 ?        00:00:00 [migration/0]
+root          16       2  0 Jun30 ?        00:00:00 [idle_inject/0]
+root          18       2  0 Jun30 ?        00:00:00 [cpuhp/0]
+root          19       2  0 Jun30 ?        00:00:00 [cpuhp/1]
+root          20       2  0 Jun30 ?        00:00:00 [idle_inject/1]
+root          21       2  0 Jun30 ?        00:00:00 [migration/1]
+root          22       2  0 Jun30 ?        00:00:00 [ksoftirqd/1]
+root          24       2  0 Jun30 ?        00:00:00 [kworker/1:0H-kblockd]
+root          25       2  0 Jun30 ?        00:00:00 [kdevtmpfs]
+root          26       2  0 Jun30 ?        00:00:00 [inet_frag_wq]
+root          27       2  0 Jun30 ?        00:00:00 [kauditd]
+root          29       2  0 Jun30 ?        00:00:00 [khungtaskd]
+root          30       2  0 Jun30 ?        00:00:00 [oom_reaper]
+root          31       2  0 Jun30 ?        00:00:00 [writeback]
+root          32       2  0 Jun30 ?        00:00:03 [kcompactd0]
+root          33       2  0 Jun30 ?        00:00:00 [ksmd]
+root          34       2  0 Jun30 ?        00:00:00 [khugepaged]
+root          80       2  0 Jun30 ?        00:00:00 [kintegrityd]
+root          81       2  0 Jun30 ?        00:00:00 [kblockd]
+root          82       2  0 Jun30 ?        00:00:00 [blkcg_punt_bio]
+root          83       2  0 Jun30 ?        00:00:00 [xen-balloon]
+root          84       2  0 Jun30 ?        00:00:00 [tpm_dev_wq]
+root          85       2  0 Jun30 ?        00:00:00 [ata_sff]
+root          86       2  0 Jun30 ?        00:00:00 [md]
+root          87       2  0 Jun30 ?        00:00:00 [edac-poller]
+root          88       2  0 Jun30 ?        00:00:00 [devfreq_wq]
+root          89       2  0 Jun30 ?        00:00:00 [watchdogd]
+root          91       2  0 Jun30 ?        00:00:00 [kworker/0:1H-kblockd]
+root          93       2  0 Jun30 ?        00:00:00 [kswapd0]
+root          94       2  0 Jun30 ?        00:00:00 [ecryptfs-kthrea]
+root          96       2  0 Jun30 ?        00:00:00 [kthrotld]
+root          97       2  0 Jun30 ?        00:00:00 [acpi_thermal_pm]
+root          98       2  0 Jun30 ?        00:00:00 [xenbus]
+root          99       2  0 Jun30 ?        00:00:00 [xenwatch]
+root         100       2  0 Jun30 ?        00:00:00 [nvme-wq]
+root         101       2  0 Jun30 ?        00:00:00 [nvme-reset-wq]
+root         102       2  0 Jun30 ?        00:00:00 [nvme-delete-wq]
+root         103       2  0 Jun30 ?        00:00:00 [scsi_eh_0]
+root         104       2  0 Jun30 ?        00:00:00 [scsi_tmf_0]
+root         105       2  0 Jun30 ?        00:00:00 [scsi_eh_1]
+root         106       2  0 Jun30 ?        00:00:00 [scsi_tmf_1]
+root         108       2  0 Jun30 ?        00:00:00 [vfio-irqfd-clea]
+root         109       2  0 Jun30 ?        00:00:00 [mld]
+root         110       2  0 Jun30 ?        00:00:00 [ipv6_addrconf]
+root         119       2  0 Jun30 ?        00:00:00 [kstrp]
+root         122       2  0 Jun30 ?        00:00:00 [zswap-shrink]
+root         123       2  0 Jun30 ?        00:00:00 [kworker/u31:0]
+root         128       2  0 Jun30 ?        00:00:00 [charger_manager]
+root         129       2  0 Jun30 ?        00:00:00 [jbd2/xvda1-8]
+root         130       2  0 Jun30 ?        00:00:00 [ext4-rsv-conver]
+root         134       2  0 Jun30 ?        00:00:00 [kworker/1:1H-kblockd]
+root         171       1  0 Jun30 ?        00:00:01 /lib/systemd/systemd-journald
+root         208       1  0 Jun30 ?        00:00:00 /lib/systemd/systemd-udevd
+root         230       2  0 Jun30 ?        00:00:00 [cryptd]
+root         310       2  0 Jun30 ?        00:00:00 [kaluad]
+root         312       2  0 Jun30 ?        00:00:00 [kmpath_rdacd]
+root         314       2  0 Jun30 ?        00:00:00 [kmpathd]
+root         315       2  0 Jun30 ?        00:00:00 [kmpath_handlerd]
+root         316       1  0 Jun30 ?        00:00:09 /sbin/multipathd -d -s
+systemd+     388       1  0 Jun30 ?        00:00:00 /lib/systemd/systemd-timesyncd
+systemd+     454       1  0 Jun30 ?        00:00:00 /lib/systemd/systemd-networkd
+systemd+     456       1  0 Jun30 ?        00:00:00 /lib/systemd/systemd-resolved
+root         492       1  0 Jun30 ?        00:00:01 /usr/lib/accountsservice/accounts-daemon
+root         493       1  0 Jun30 ?        00:00:00 /usr/sbin/acpid
+root         501       1  0 Jun30 ?        00:00:00 /usr/sbin/cron -f
+message+     502       1  0 Jun30 ?        00:00:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         510       1  0 Jun30 ?        00:00:03 /usr/sbin/irqbalance --foreground
+jenkins      511       1  0 Jun30 ?        00:05:15 /usr/bin/java -Djava.awt.headless=true -jar /usr/share/java/jenkins.war --webroot=/var/cache/jenkins/war --httpPort=8080
+root         512       1  0 Jun30 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         515       1  0 Jun30 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+syslog       516       1  0 Jun30 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         519       1  0 Jun30 ?        00:00:05 /snap/amazon-ssm-agent/6563/amazon-ssm-agent
+root         525       1  0 Jun30 ?        00:00:06 /usr/lib/snapd/snapd
+root         536       1  0 Jun30 ?        00:00:00 /lib/systemd/systemd-logind
+root         539       1  0 Jun30 ?        00:00:00 /usr/lib/udisks2/udisksd
+daemon       544       1  0 Jun30 ?        00:00:00 /usr/sbin/atd -f
+root         547       1  0 Jun30 ?        00:00:46 /usr/bin/containerd
+root         591       1  0 Jun30 ?        00:00:00 /usr/sbin/ModemManager
+root         595       1  0 Jun30 ttyS0    00:00:00 /sbin/agetty -o -p -- \u --keep-baud 115200,38400,9600 ttyS0 vt220
+root         618       1  0 Jun30 tty1     00:00:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root         674       1  0 Jun30 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         846       1  0 Jun30 ?        00:00:00 sshd: /usr/sbin/sshd -D -o AuthorizedKeysCommand /usr/share/ec2-instance-connect/eic_run_authorized_keys %u %f -o AuthorizedKeysCommandUser ec2-instance-connect [listener] 0 of 10-100 startups
+root         861       1  0 Jun30 ?        00:00:10 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+root         884       2  0 Jun30 ?        00:00:00 bpfilter_umh
+root        1175     519  0 Jun30 ?        00:00:03 /snap/amazon-ssm-agent/6563/ssm-agent-worker
+root        3818       2  0 02:38 ?        00:00:00 [kworker/0:1-cgroup_destroy]
+root        5184       2  0 09:18 ?        00:00:01 [kworker/0:0-events]
+root        6071       2  0 15:41 ?        00:00:00 [kworker/1:0-mm_percpu_wq]
+root        6086     846  0 15:53 ?        00:00:00 sshd: ubuntu [priv]
+ubuntu      6089       1  0 15:53 ?        00:00:00 /lib/systemd/systemd --user
+ubuntu      6090    6089  0 15:53 ?        00:00:00 (sd-pam)
+root        6094       2  0 15:53 ?        00:00:00 [kworker/1:2-cgroup_destroy]
+ubuntu      6194    6086  0 15:53 ?        00:00:00 sshd: ubuntu@pts/0
+ubuntu      6195    6194  0 15:53 pts/0    00:00:00 -bash
+root        6281    6195  0 16:04 pts/0    00:00:00 sudo su jenkins
+root        6282    6281  0 16:04 pts/0    00:00:00 su jenkins
+jenkins     6283    6282  0 16:04 pts/0    00:00:00 bash
+root        6430       2  0 17:38 ?        00:00:00 [kworker/u30:2-events_unbound]
+root        6453       2  0 17:58 ?        00:00:00 [kworker/u30:1-events_unbound]
+jenkins     6482     511  0 18:06 ?        00:00:00 [sh] <defunct>
+jenkins     6484       1  0 18:06 ?        00:00:00 sh -c ({ while [ -d '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e' -a \! -f '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/jenkins-result.txt' ]; do touch '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/jenkins-log.txt'; sleep 3; done } & jsc=durable-245df2b549e3e2fa41677d30a72c49a2b37fd4877c447c680caa79018771be9d; JENKINS_SERVER_COOKIE=$jsc 'sh' -xe  '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/script.sh' > '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/jenkins-log.txt' 2>&1; echo $? > '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/jenkins-result.txt.tmp'; mv '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/jenkins-result.txt.tmp' '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/jenkins-result.txt'; wait) >&- 2>&- &
+jenkins     6485    6484  0 18:06 ?        00:00:00 sh -c ({ while [ -d '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e' -a \! -f '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/jenkins-result.txt' ]; do touch '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/jenkins-log.txt'; sleep 3; done } & jsc=durable-245df2b549e3e2fa41677d30a72c49a2b37fd4877c447c680caa79018771be9d; JENKINS_SERVER_COOKIE=$jsc 'sh' -xe  '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/script.sh' > '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/jenkins-log.txt' 2>&1; echo $? > '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/jenkins-result.txt.tmp'; mv '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/jenkins-result.txt.tmp' '/var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/jenkins-result.txt'; wait) >&- 2>&- &
+jenkins     6486    6484  0 18:06 ?        00:00:00 sh -xe /var/lib/jenkins/workspace/NStage project@tmp/durable-aa4dfa9e/script.sh
+jenkins     6488    6485  0 18:06 ?        00:00:00 sleep 3
+jenkins     6490    6486  0 18:06 ?        00:00:00 ps -ef
+[8mha:////4FlSpBmFvPYOqHBpRKcF00MVFLBSbMaKnBziDr/QOqeHAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbmRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI4F2L72ED9uwSoQvAAAAA==[0m[Pipeline] sh
++ sudo systemctl status Jenkins
+Unit Jenkins.service could not be found.
+[8mha:////4OWJjYZystnqauJCSIqQiRzmfe7N2KMUwT2m2PK0kBYOAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiJoY+NY2WZoPEGEGAOZXUwWofJEXs07yMiMlb/67zXv9cYyRRw5OtVYaj2lyqsu9G56auDYXgMPquGLqpgSB6tKO5Rc29OMJYvFvCzHQmNlqQqcPDnBWjfmYYpgyBVniZM7aOS+vuOJTE9lMVG+MEZsbn2dmH6dvwGMXSfId1tBtv8AqUpLPL0AAAA=[0m[Pipeline] }
+[8mha:////4DUS1+v2R1tLTJAWJeagj5lMWGkbec6IeIkehZm6OJtvAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIMhZVjZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8AozIimL0AAAA=[0m[Pipeline] // stage
+[8mha:////4Cl0gyaThHh1124ykQjMSOaYFTZ/41Hc+evRZuZnvDalAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjEB2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2Gw/x/INvUXiHMEAAAA=[0m[Pipeline] stage
+[8mha:////4As581VK1Q1wM9CwIm0UvNUms4RVB2ljZryEDN1j6R2YAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Fanny)
+Stage "Fanny" skipped due to earlier failure(s)
+[8mha:////4BKNSbhPP/YxjVAQw3eU8/osUfdqCQ2phEaTtVVey5h9AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7ndf2r3BhW0chS+AAAA[0m[Pipeline] }
+[8mha:////4Gi6e6XVd8xAcD2+E80KZAZTU8KBYZj0viB/g6Q4NT0TAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIikKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7NyZXKai+AAAA[0m[Pipeline] // stage
+[8mha:////4AhodLJOYFu2zaW2XPidPaWhI05JchbfYBgfdKExsZbRAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJESDqGgtN7zAxMY4se6CfSGpeBFf4w8EIlGx1c5Kq3m+oMwJDpS8bBy2AXMdZBd7PzU5UGovkQbZ0FnWhJmik9oNmqw7zqiJHcwRBSwULB3WkXJAz7BSjbmbKhr01YnTtO0VFMHe4AFCTWY2ib8wJlhfe5sJf56/Ahg7BrFlKDa7z7F8A6sHc4fBAAAA[0m[Pipeline] stage
+[8mha:////4JZvAfsSbgQ6b8ZmPVykDXoVauM4vQvvQUkEOiX1d2qUAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohULDAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD1+IXOLCAAAA[0m[Pipeline] { (Mercy)
+Stage "Mercy" skipped due to earlier failure(s)
+[8mha:////4Nx/75pGPTH49pgoWUZpGPqfT77BSI3tcVOVCYig77WSAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKpAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N3ew3WS+AAAA[0m[Pipeline] }
+[8mha:////4OJr8dSnI0MxM2XNj8bJCrmiua90eonk+DB+jHBpF5UlAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiGiSEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFEU4bYvgAAAA==[0m[Pipeline] // stage
+[8mha:////4NyN6oPuOjz8d81jvVkMaqI6hvHQcVP0CM+CFi9LUTv2AAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYSDEB2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INK/7CYMEAAAA=[0m[Pipeline] stage
+[8mha:////4P81q7LP2sxK0tpnNeqMpE26V5UaQ9yIfdbA/CgkW/0NAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUWBFT1ygLJwhNCGmj/8tPSjtxIq7GHWipxIQHy7ZkvdcbishwInaisdh6jLUXXejdlMRA3F4DDaKhi6gJIwUrlB0UGVstVVGysCjLYSVhbbEOFD26BBvZ6Icug0ZXnhNP21FC7s0dnpDJiZw0p28ZGba33kTCH+cvAMYuQX7Yzbafn8UHbGnGmsIAAAA=[0m[Pipeline] { (Henrietta)
+Stage "Henrietta" skipped due to earlier failure(s)
+[8mha:////4BmdwtDRDiPNT49dq2PwARZjxnE/PqAjqKLzWGu612qlAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi0iIqWisNLzCJMXasO8d2cCpexNf4A4FIVGyx2tlmni9YxwBHDhqtot5QbA16N+p5YebQXx1ntHzBlimyU9io3HCnTgs2nBQsKUpYCdgoah1HQzrBVlh5l5WTpKtzCvN3EFCaboAHFGI2JxnSF6YAu9vYRaaf568AJu8TlHX9qf0ben/gNr4AAAA=[0m[Pipeline] }
+[8mha:////4LiUhCE0IdqaGBF2OV3InXLuZ5GERkiFRnCGWXKMGzFZAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCoERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFkKHf7T23fSZy7ir4AAAA=[0m[Pipeline] // stage
+[8mha:////4FKKHv6J8PxIhHjqPYFFlSrSzqCVpLFLcS6Jk1WkhkZXAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjoXSIitZywwtMYowT6y7YF5KKF/E1/oAhEhVb7ay0mucLyhThQNHJzmLvMTVeDmF0ucmJYn8JNMmOzrIhTBSs1HbS1NrjgprYwhJRwErB2mITKHl0DBvVmbupgkFXnTjmba+g8O0NHiBUNrOJ/IU5wvY6tonw5/krgHlgEDVDsas/x/INPbxT+8EAAAA=[0m[Pipeline] stage
+[8mha:////4O6A+ba/M7yUMaUh4huK8yCjp7iLr6CYnh8+x0pYE9mtAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUQjAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD/hYjrHCAAAA[0m[Pipeline] { (Obed)
+Stage "Obed" skipped due to earlier failure(s)
+[8mha:////4NqM/YuqJsKuXe3AYAdr89yrrfP/8mMN5b5dTsw6jJa7AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIUGDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQF1+RyqvgAAAA==[0m[Pipeline] }
+[8mha:////4KZeetIxtXZUsUr0gI6dRkJhtKHq1ltpv9RO0qDy+ct9AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiISQKRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyu//U7g1GGkcWvgAAAA==[0m[Pipeline] // stage
+[8mha:////4Pz8XRoKAby38s9Y3FrqTkAOmphkjgzwM2gks+cvEHTvAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjIQokREVrueEFJjbGiXUX7AtJxYv4Gn8gEImKrXZWWs3zBWVOcKDkZeOwDZjrILvY+6nJgVJ7iTTIhs6yJswUndRu0GTdcUZN7GCOKGChYOmwjpQDeoaVaszdVNGgr06cpm2voAj2Bg8QajKzSfyFMcH62ttM+PP8FcDYMYgtQ7HZfY7lG0Z8kYzBAAAA[0m[Pipeline] stage
+[8mha:////4Igj0/8gzhgg6k3nP+dJNpF/BgZfwgeCVAVFc8TEfZkSAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUYgIhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD0QKVszCAAAA[0m[Pipeline] { (Ronald)
+Stage "Ronald" skipped due to earlier failure(s)
+[8mha:////4FdVxxDSwEnBKnJeTGdbLcNrZjbjeeo6DeQMCaZzHThuAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCoEIoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AH3XYTTvgAAAA==[0m[Pipeline] }
+[8mha:////4DKqmMJWYkh7G4qwnjzX+U9vi77RhAWY7z3gMyVB/Ee1AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioEFCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw/Evt9vvgAAAA==[0m[Pipeline] // stage
+[8mha:////4Nx65fkJZk9euSn3AIc5kERST2I5hdQ7lFWSBzkJFL5HAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjAR2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INlFR9i8EAAAA=[0m[Pipeline] stage
+[8mha:////4JVsvWgvHX7I6uIpVDLDCnwE9TAcYj8yziFXamF+knYvAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUoiNiYo26cILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMYAJwqGO42dxdha3vvRzIlnCt3NU+aOrrwljOQ1b3RuSOnzWhtKGlYVDDYCthpbT9GiSbATTj5k5SWa6pLCvB0FMKsGeEIhZnKSIX3LFGB/H1Uk/HH+AmDqE7D6sFi9PMsPfTawssIAAAA=[0m[Pipeline] { (Git Flow and README)
+Stage "Git Flow and README" skipped due to earlier failure(s)
+[8mha:////4NSX3PiIjRMk9Bth9HMrHoaQ0wBFE9JCV2O60ABRSG23AAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeghSxM6xsmVoPAEmiBDmfwJEUnkir+YdRDNj5RY7+7Z5zxesY4AjBc2swsFg7AzzbtJlsUxhuDrKzNKFdYSRnGJCZUG9Oi0oKClYUtWw4rBR2DmKBnWCLbfyLhsnUTfnFMp34FCbfoQHVLyYkwzpC3OA3W3qI+HP81cAs/cJ6nb/qfYNvsfbsb4AAAA=[0m[Pipeline] }
+[8mha:////4K4TqKX2A1fesCmuuz4YVxCkwHRmrUH43NbWmEsHuFVuAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN40kgA2+AAAA[0m[Pipeline] // stage
+[8mha:////4Gqociw1vwlcqtZMOhiesSv3PKUvLSs0xHKOKyitnIb7AAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIpQDSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsPLn/NEL0AAAA=[0m[Pipeline] }
+[8mha:////4KiXqnR/MzfWLI+fX5wKK+UOLPkltxLMUfLn9FJXBQfMAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIUFBaOlW2GxhNEiDGQ2cVkESpP5NW8g4zMWPmr/17zXm+sU8SRo1Otpc5Tqr3qw+Dmp0aO3TXwqFq+qJopcbCqsmPFjT0tWLFYLMtyrDQ2lurAyZMTbHVrHqYIhlxxlji7g0bumzueyPRcFhPlC1PE7jY0ienX+RvA1PeCvNwLsvIDPcPJs70AAAA=[0m[Pipeline] // node
+[8mha:////4Ps+Bx/asQu9udEQWDyjV0hm0Sg1stsxJuLce1yZOP2/AAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRoEFCVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Lu9INt+AHpknka9AAAA[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 4
+Finished: FAILURE

@@ -1,0 +1,83 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@1316.vd2290d3341a_f">
+  <actions>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@2.2141.v5402e818a_779"/>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@2.2141.v5402e818a_779">
+      <jobProperties/>
+      <triggers/>
+      <parameters/>
+      <options/>
+    </org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction>
+  </actions>
+  <description> Project Nstage is simple jenkins pipeline project that will demo Group 2 knowledge of Jenkins as a CICD tool </description>
+  <keepDependencies>false</keepDependencies>
+  <properties>
+    <com.coravy.hudson.plugins.github.GithubProjectProperty plugin="github@1.37.1">
+      <projectUrl>https://github.com/Bounzeback/Nstagejob/</projectUrl>
+      <displayName></displayName>
+    </com.coravy.hudson.plugins.github.GithubProjectProperty>
+    <org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
+      <triggers>
+        <com.cloudbees.jenkins.GitHubPushTrigger plugin="github@1.37.1">
+          <spec></spec>
+        </com.cloudbees.jenkins.GitHubPushTrigger>
+      </triggers>
+    </org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
+  </properties>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@3693.vd5c06270e4dc">
+    <script>pipeline {
+    agent any
+
+    stages {
+        stage(&apos;Idris&apos;) {
+            steps {
+                echo &quot;Performing Idris&apos; stage tasks&quot;
+            }
+        }
+
+        stage(&apos;Fanny&apos;) {
+            steps {
+                echo &quot;Performing Fanny&apos;s stage tasks&quot;
+            }
+        }
+
+        stage(&apos;Mercy&apos;) {
+            steps {
+                echo &quot;Performing Mercy&apos;s stage tasks&quot;
+            }
+        }
+
+        stage(&apos;Henrietta&apos;) {
+            steps {
+                echo &quot;Performing Henrietta&apos;s stage tasks&quot;
+            }
+        }
+
+        stage(&apos;Obed&apos;) {
+            steps {
+                echo &quot;Performing Obed&apos;s stage tasks&quot;
+            }
+        }
+
+        stage(&apos;Ronald&apos;) {
+            steps {
+                echo &quot;Performing Ronald&apos;s stage tasks&quot;
+            }
+        }
+
+        stage(&apos;Checkout&apos;) {
+            steps {
+                echo &quot;Checking out code from GitHub&quot;
+                checkout([$class: &apos;GitSCM&apos;,
+                          branches: [[name: &apos;*/main&apos;]],
+                          userRemoteConfigs: [[url: &apos;https://github.com/Bounzeback/Nstagejob.git&apos;]]])
+            }
+        }
+    }
+}
+</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>
